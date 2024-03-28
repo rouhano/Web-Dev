@@ -1,0 +1,22 @@
+body {
+    background-color: #E9E8E8;;
+    margin-left: 3%;
+    font-family: "Verdana", sans-serif;
+}
+
+hr {
+    background-color: transparent;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1{
+    color: #CD5888;
+}
+
+h3{
+    color: #CD5888;
+}
